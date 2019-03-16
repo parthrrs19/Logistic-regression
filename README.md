@@ -1,2 +1,2 @@
 # Logistic-regression
-Using logistic regression algorithm to classify label
+Using logistic regression algorithm on Advertising data
